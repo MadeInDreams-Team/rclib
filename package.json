@@ -1,0 +1,25 @@
+{
+  "name": "rclib",
+  "version": "1.0.0",
+  "description": "Request Content Library for Blockchain Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeInDreams-Team/rclib.git"
+  },
+  "keywords": [
+    "DEFI",
+    "Tool",
+    "ERC20",
+    "address"
+  ],
+  "author": "Ian Decentralize",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadeInDreams-Team/rclib/issues"
+  },
+  "homepage": "https://github.com/MadeInDreams-Team/rclib#readme"
+}
