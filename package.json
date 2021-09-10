@@ -1,5 +1,5 @@
 {
-  "name": "rclib",
+  "name": "@madeindreams-team/rclib",
   "version": "1.0.0",
   "description": "Request Content Library for Blockchain Dev",
   "main": "index.js",
